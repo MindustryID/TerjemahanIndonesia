@@ -3,11 +3,10 @@ displayName: "Terjemahan Indonesia"
 author: "Kevin Vilyan - Kenny"
 description: 
   '''
-  Sebuah Mod yang ditujukan untuk menerjemahkan
-  konten vanilla mindustry Versi 7 Build 146 untuk
-  sementara waktu sembari menunggu versi 8 yang
-  berisi update konten neoplasma. diharapkan untuk
-  selalu menginstall ulang mod satu minggu sekali.
+  Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla
+  mindustry Versi 7 Build 146 untuk sementara waktu
+  sembari menunggu versi 8 yang berisi update konten neoplasma.
+  Diharapkan untuk selalu menginstall ulang mod satu minggu sekali.
   '''
 version: 7.0.0
 minGameVersion: "146"
