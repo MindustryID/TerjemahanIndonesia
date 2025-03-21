@@ -4,9 +4,9 @@ author: "Kevin Vilyan - Kenny"
 description: 
   '''
   Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla
-  mindustry Versi 7 Build 146 untuk sementara waktu
-  sembari menunggu versi 8 yang berisi update konten neoplasma.
-  Diharapkan untuk selalu menginstall ulang mod satu minggu sekali.
+  [accent]Mindustry Versi 7 Build 146[] untuk sementara waktu sembari
+  menunggu Versi 8 yang berisi update konten neoplasma.
+  Diharapkan untuk selalu menginstall ulang mod seminggu sekali.
   '''
 version: 7.0.0
 minGameVersion: "146"
