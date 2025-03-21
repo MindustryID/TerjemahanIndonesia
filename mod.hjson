@@ -1,0 +1,16 @@
+name: Terjemahan Indonesia
+displayName: "Terjemahan Indonesia"
+author: "Kevin Vilyan - Kenny"
+description: 
+  '''
+  Sebuah Mod yang ditujukan untuk menerjemahkan
+  konten vanilla mindustry Versi 7 Build 146 untuk
+  sementara waktu sembari menunggu versi 8 berisi
+  update konten neoplasm. diharapkan untuk selalu
+  menginstall ulang mod satu minggu sekali.
+  '''
+version: 7.0.0
+minGameVersion: "146"
+dependencies: []
+hidden: false
+subtitle: "Terjemahan Mindustry Indonesia V7"
