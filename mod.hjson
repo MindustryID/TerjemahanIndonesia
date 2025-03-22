@@ -8,7 +8,7 @@ description:
   menunggu Versi 8 yang berisi update konten neoplasma.
   Diharapkan untuk selalu menginstall ulang mod seminggu sekali.
   '''
-version: 7.0.0
+version: 7.1.0
 minGameVersion: "146"
 dependencies: []
 hidden: false
