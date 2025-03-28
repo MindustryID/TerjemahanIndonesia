@@ -12,6 +12,6 @@ version: 7.1.0
 minGameVersion: "146"
 maxGameVersion: "147"
 dependencies: []
-hidden: false
+hidden: true
 subtitle: "Terjemahan Mindustry Indonesia V7"
 repo: "MindustryID/TerjemahanIndonesia"
