@@ -1,6 +1,0 @@
-type: Floor
-name: Aqua Floor
-variants: 4
-attributes: {
-  aquanite: 0.25
-}
