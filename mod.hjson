@@ -2,17 +2,17 @@ name: terjemahan-indonesia
 displayName: "Terjemahan Indonesia"
 author: 
 '''
-  Kevin Vilyan
-  [gray[]]Community Members:
-  • DaGamerFiles - Octavira
-  • WilloIzCitron - William A
-  • Kevin Vilyan - Kenny
+[accent[]]Kevin Vilyan
+Community Members:
+• DaGamerFiles - Octavira
+• WilloIzCitron - William A
+• Kevin Vilyan - Kenny
 '''
 description: 
 '''
-  Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent[]]Mindustry Versi 7 Build 146[[]] untuk sementara waktu
-  sembari menunggu Versi 8 yang berisi update konten neoplasma.
-  Diharapkan untuk selalu menginstall ulang mod seminggu sekali.
+Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent[]]Mindustry Versi 7 Build 146[[]] untuk sementara waktu
+sembari menunggu Versi 8 yang berisi update konten neoplasma.
+Diharapkan untuk selalu menginstall ulang mod seminggu sekali.
 '''
 version: 7.1.4
 minGameVersion: "146"
