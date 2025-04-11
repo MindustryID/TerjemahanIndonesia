@@ -13,10 +13,9 @@ Diharapkan untuk selalu menginstall ulang mod seminggu sekali.
 • Kevin Vilyan - Kenny
 '''
 version: 7.1.4
-minGameVersion: "146"
-maxGameVersion: "147"
+minGameVersion: "145"
 dependencies: []
-hidden: true
+hidden: false
 subtitle: "Terjemahan Mindustry Indonesia V7"
 repo: "MindustryID/TerjemahanIndonesia"
 hideBrowser: true
