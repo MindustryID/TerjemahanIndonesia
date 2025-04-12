@@ -4,6 +4,6 @@
 </div>
 
 <div align=center>
-<p>A Temporary Indonesian Translation Mod for V7</p>
-<p>( might be remove once V8 Release )</p>
+<p>An Indonesian Translation Mod only for V7</p>
+<p>( Not supported in build 147 V8 Beta Release )</p>
 </div>
