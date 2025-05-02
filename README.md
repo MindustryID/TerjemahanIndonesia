@@ -5,5 +5,5 @@
 
 <div align=center>
 <p>An Indonesian Translation Mod only for V7 build 146</p>
-<p>( Not supported in V8 Beta Release which is build 147)</p>
+<p>( Not supported in V8 Beta Release )</p>
 </div>
