@@ -31,4 +31,4 @@ Mindustry adalah sebuah game manajemen pembangunan industri dengan elemen RTS da
 - Bermainlah dalam server khusus publik, atau undang teman ke sesi pribadi Anda sendiri
 - Aturan permainan yang dapat disesuaikan: Ubah biaya blok, statistik musuh, muatan sumber daya, waktu gelombang, dan banyak lagi
 - Penyunting peta bawaan yang handal dengan dukungan skrip
-- Peramban mod bawaan & dukungan mod
+- Broswer mod bawaan & dukungan mod
