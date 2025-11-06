@@ -32,3 +32,10 @@ xanthia.displayName = Core.bundle.get("mod.xanthia.name");
 xanthia.author = Core.bundle.get("mod.xanthia.author");
 xanthia.description = Core.bundle.get("mod.xanthia.description");
 xanthia.subtitle = Core.bundle.get("mod.xanthia.subtitle");
+
+const Corpuscles = Vars.mods.locateMod("Corpuscles").meta;
+
+Corpuscles.displayName = Core.bundle.get("mod.Corpuscles.name");
+Corpuscles.author = Core.bundle.get("mod.Corpuscles.author");
+Corpuscles.description = Core.bundle.get("mod.Corpuscles.description");
+Corpuscles.subtitle = Core.bundle.get("mod.Corpuscles.subtitle");
