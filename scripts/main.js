@@ -33,7 +33,7 @@ xanthia.author = Core.bundle.get("mod.xanthia.author");
 xanthia.description = Core.bundle.get("mod.xanthia.description");
 xanthia.subtitle = Core.bundle.get("mod.xanthia.subtitle");
 
-const corpuscles = Vars.mods.locateMod("biotic-zlo").meta;
+const corpuscles = Vars.mods.locateMod("corpuscles").meta;
 
 corpuscles.displayName = Core.bundle.get("mod.corpuscles.name");
 corpuscles.author = Core.bundle.get("mod.corpuscles.author");
