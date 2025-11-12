@@ -41,7 +41,7 @@ corpuscles.description = Core.bundle.get("mod.corpuscles.description");
 
 corpuscles.subtitle = Core.bundle.get("mod.corpuscles.subtitle");
 
-const fadingrev = Vars.mods.locateMod("me").meta;
+const fadingrev = Vars.mods.locateMod("fadingrev").meta;
 
 fadingrev.displayName = Core.bundle.get("mod.fadingrev.name");
 fadingrev.author = Core.bundle.get("mod.fadingrev.author");
