@@ -3,7 +3,7 @@ displayName: "Terjemahan Indonesia"
 author: Kevin Vilyan
 description: 
 '''
-Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent[]]Mindustry Versi 7 Build 146[[]]
+Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent[]]Mindustry[[]]
 Diharapkan untuk selalu menginstall ulang mod seminggu sekali.
 
 [accent[]]Anggota:[gray[]]
@@ -16,12 +16,10 @@ Diharapkan untuk selalu menginstall ulang mod seminggu sekali.
 • Korxopid
 • TheMrAlbert
 • GrimSoul
-
-[scarlet[]]Tidak dianjurkan untuk digunakan di Versi 8 !!!
 '''
 version: 7.146
 minGameVersion: "146"
 dependencies: []
 hidden: true
-subtitle: "Terjemahan Mindustry Indonesia V7"
+subtitle: "Mindustry Indonesia"
 repo: "MindustryID/TerjemahanIndonesia"
