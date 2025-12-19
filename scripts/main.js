@@ -30,7 +30,7 @@ corpuscles.displayName = Core.bundle.get("mod.corpuscles.name");
 corpuscles.description = Core.bundle.get("mod.corpuscles.description");
 corpuscles.subtitle = Core.bundle.get("mod.corpuscles.subtitle");
 
-const echo-fleet = Vars.mods.locateMod("echo-fleet").meta;
-echo-fleet.displayName = Core.bundle.get("mod.echo-fleet.name");
-echo-fleet.description = Core.bundle.get("mod.echo-fleet.description");
-echo-fleet.subtitle = Core.bundle.get("mod.echo-fleet.subtitle");
+const echofleet = Vars.mods.locateMod("echo-fleet").meta;
+echofleet.displayName = Core.bundle.get("mod.echo-fleet.name");
+echofleet.description = Core.bundle.get("mod.echo-fleet.description");
+echofleet.subtitle = Core.bundle.get("mod.echo-fleet.subtitle");
