@@ -1,48 +1,41 @@
-const mindusindo = Vars.mods.locateMod("terjemahan-indonesia").meta;
+let mod = Vars.mods.locateMod("terjemahan-indonesia").meta;
+mod.meta.displayName = Core.bundle.get("mod.terjemahan-indonesia.name");
+mod.meta.author = Core.bundle.get("mod.terjemahan-indonesia.author");
+mod.meta.subtitle = Core.bundle.get("mod.terjemahan-indonesia.subtitle");
+mod.meta.description = Core.bundle.get("mod.terjemahan-indonesia.description");
 
-mindusindo.displayName = Core.bundle.get("mod.terjemahan-indonesia.name");
-mindusindo.author = Core.bundle.get("mod.terjemahan-indonesia.author");
-mindusindo.description = Core.bundle.get("mod.terjemahan-indonesia.description");
-mindusindo.subtitle = Core.bundle.get("mod.terjemahan-indonesia.subtitle");
+let mod = Vars.mods.locateMod("asthosus");
+mod.meta.displayName = Core.bundle.get("mod.asthosus.name");
+mod.meta.subtitle = Core.bundle.get("mod.asthosus.subtitle");
+mod.meta.description = Core.bundle.get("mod.asthosus.description");
 
-const asthosus = Vars.mods.locateMod("asthosus").meta;
+let mod = Vars.mods.locateMod("exoprosopa").meta;
+mod.meta.displayName = Core.bundle.get("mod.exoprosopa.name");
+mod.meta.subtitle = Core.bundle.get("mod.exoprosopa.subtitle");
+mod.meta.description = Core.bundle.get("mod.exoprosopa.description");
 
-asthosus.displayName = Core.bundle.get("mod.asthosus.name");
-asthosus.author = Core.bundle.get("mod.asthosus.author");
-asthosus.description = Core.bundle.get("mod.asthosus.description");
-asthosus.subtitle = Core.bundle.get("mod.asthosus.subtitle");
+let mod = Vars.mods.locateMod("axoxium").meta;
+mod.meta.displayName = Core.bundle.get("mod.axoxium.name");
+mod.meta.subtitle = Core.bundle.get("mod.axoxium.subtitle");
+mod.meta.description = Core.bundle.get("mod.axoxium.description");
 
-const exoprosopa = Vars.mods.locateMod("exoprosopa").meta;
+let mod = Vars.mods.locateMod("xanthia-3").meta;
+mod.meta.displayName = Core.bundle.get("mod.xanthia-3.name");
+mod.meta.author = Core.bundle.get("mod.xanthia-3.author");
+mod.meta.subtitle = Core.bundle.get("mod.xanthia-3.subtitle");
+mod.meta.description = Core.bundle.get("mod.xanthia-3.description");
 
-exoprosopa.displayName = Core.bundle.get("mod.exoprosopa.name");
-exoprosopa.author = Core.bundle.get("mod.exoprosopa.author");
-exoprosopa.description = Core.bundle.get("mod.exoprosopa.description");
-exoprosopa.subtitle = Core.bundle.get("mod.exoprosopa.subtitle");
+let mod = Vars.mods.locateMod("corpuscles");
+mod.meta.displayName = Core.bundle.get("mod.corpuscles.name");
+mod.meta.subtitle = Core.bundle.get("mod.corpuscles.subtitle");
+mod.meta.description = Core.bundle.get("mod.corpuscles.description");
 
-const axoxium = Vars.mods.locateMod("axoxium").meta;
+let mod = Vars.mods.locateMod("echo-fleet");
+mod.meta.displayName = Core.bundle.get("mod.echo-fleet.name");
+mod.meta.subtitle = Core.bundle.get("mod.echo-fleet.subtitle");
+mod.meta.description = Core.bundle.get("mod.echo-fleet.description");
 
-axoxium.displayName = Core.bundle.get("mod.axoxium.name");
-axoxium.author = Core.bundle.get("mod.axoxium.author");
-axoxium.description = Core.bundle.get("mod.axoxium.description");
-axoxium.subtitle = Core.bundle.get("mod.axoxium.subtitle");
-
-const xanthia = Vars.mods.locateMod("xanthia-3").meta;
-
-xanthia.displayName = Core.bundle.get("mod.xanthia.name");
-xanthia.author = Core.bundle.get("mod.xanthia.author");
-xanthia.description = Core.bundle.get("mod.xanthia.description");
-xanthia.subtitle = Core.bundle.get("mod.xanthia.subtitle");
-
-const corpuscles = Vars.mods.locateMod("corpuscles").meta;
-
-corpuscles.displayName = Core.bundle.get("mod.corpuscles.name");
-corpuscles.author = Core.bundle.get("mod.corpuscles.author");
-corpuscles.description = Core.bundle.get("mod.corpuscles.description");
-corpuscles.subtitle = Core.bundle.get("mod.corpuscles.subtitle");
-
-const echo-fleet = Vars.mods.locateMod("echo-fleet").meta;
-
-echo-fleet.displayName = Core.bundle.get("mod.echo-fleet.name");
-echo-fleet.author = Core.bundle.get("mod.echo-fleet.author");
-echo-fleet.description = Core.bundle.get("mod.echo-fleet.description");
-echo-fleet.subtitle = Core.bundle.get("mod.echo-fleet.subtitle"); 
+let mod = Vars.mods.locateMod("colfac");
+mod.meta.displayName = Core.bundle.get("mod.colfac.name");
+mod.meta.subtitle = Core.bundle.get("mod.colfac.subtitle");
+mod.meta.description = Core.bundle.get("mod.colfac.description");
