@@ -1,4 +1,90 @@
 # Scheme Ported Addition - Would Never Be Remove if MDID Still Having Zero Cares.
+update.name = [red]\u26A0[] Mod Scheme Size telah kedaluwarsa !
+update.info = Versi mod scheme size yang anda miliki telah [accent]kedaluwarsa[].\nDialog yang mengganggu layar anda saat ini dapat dimatikan di pengaturan.\n\n[disabled]Versi saat ini adalah v{0} sedangkan versi terbaru adalah v{1}[]
+
+# dialogs
+
+keybind.name = < Pintasan >
+keybind.reset-all = Atur Ulang Semua Pintasan
+keybind.reset = Atur Ulang
+keybind.clear = Kosongkan
+keybind.press = Tekan tombol apa saja
+
+category.movement = Pergerakan
+keybind.move-x = Gerak Horizontal
+keybind.move-y = Gerak Vertikal
+keybind.pan-mv = Tampilan Geser
+keybind.mouse-mv = Ikuti Mouse/Tetikus
+keybind.teleport = Teleportasi
+keybind.boost = Pendorong
+keybind.look-at = Lihat Arah Mouse/Tetikus
+keybind.respawn = Muncul Kembali
+keybind.despawn = Hilangkan Unit[disabled](admin)
+keybind.pick-cargo = Angkat Muatan
+keybind.drop-cargo = Turunkan Muatan
+
+category.building = Bangunan
+keybind.build-bd = Bangun
+keybind.break-bd = Hancurkan Wilayah
+keybind.rebuild = Membangun Ulang Wilayah 
+keybind.replace = Ganti
+keybind.select = Pilih/Tembak
+keybind.deselect = Batalkan Pilihan
+keybind.hexblock = Pilih Blok
+keybind.srcblock = Cari Blok
+keybind.pause-bd = Jeda/Lanjut Membangun
+keybind.clear-bd = Kosongkan Rencana Membangun
+keybind.drop = Keluarkan Item Dari Bangunan
+keybind.pick = Ambil Blok
+keybind.rotate = Putar [disabled](hold)
+keybind.sel-schematic = Pilih Skematik
+keybind.hex-schematic = Pilih Skematik Berdasarkan Tag
+keybind.new-schematic = Pilih Wilyah
+keybind.flip-x = Balik Skematik Horizontal
+keybind.flip-z = Balik Skematik Vertikal
+
+category.command = Perintah
+keybind.command = Mode Perintah
+keybind.control = Kontrol Unit
+keybind.select-all-units = Pilih Semua Unit
+keybind.select-all-factories = Pilih Semua Pabrik Unit
+keybind.attack = Pindah Lokasi/Serang
+
+category.view = Melihat
+keybind.menu = Menu
+keybind.pause = Jeda/Lanjut
+keybind.sector-map = Peta Sektor
+keybind.planet-map = Peta Planet
+keybind.research = Riset
+keybind.database = Basis Data
+keybind.display-xray = Tampilkan Sinar-X
+keybind.display-prod = Tampilkan Sumber Daya Inti
+keybind.block-info = Info Blok
+keybind.tgl-menus = Aktifkan UI Menu
+keybind.tgl-power-lasers = Aktifkan Laser Tenaga
+keybind.tgl-block-status = Aktifkan Status Blok
+keybind.tgl-block-health = Aktifkan Nyawa Blok
+keybind.tgl-fullscreen = Aktifkan Layar Penuh
+
+# fragments
+
+hud.no-grids = [accent]< tidak ditemukan jaringan tenaga > 
+
+map = [accent]Klik kiri dan tahan untuk melihat sekeliling\Klik kanan untuk menggeser kamera
+
+cmnd.no-units = [accent]< tidak ada unit yang di perintah >
+cmnd.clear = [accent]Tekan {0}\nuntuk mengosongkan perintah
+
+poly.no-build = [scarlet]\ue815 Unit Tidak Dapat Membangun
+poly.bad-env = [scarlet]\ue815 Tidak Didukung
+poly.banned = [scarlet]\ue815 Dilarang
+
+
+
+# OUTDATED
+
+
+
 welcome.name = Selamat Datang!
 welcome.text = Hai, Saya, [#0096FF]xzxADIxzx#7729[], satu-satunya pengembang mod ini.\nBanyak orang tidak tahu tentang sebagian besar fitur mod ini, jadi saya membuat tombol untuk pengguna mobile yang aktif secara default dan menambahkan pesan selamat datang ini. Anda juga dapat menonaktifkan pesan ini di pengaturan modifikasi.\n\nJika Anda menyukai mod ini silakan berikan bintang di GitHub.\nSemoga berhasil dan semoga dewa java menyertai Anda!
 
@@ -93,6 +179,7 @@ keybind.place_core.name = Tempatkan Inti
 keybind.alternative.name = Alternatif ([accent]Tahan + Info Blok[])
 
 keycomb.name = Kombinasi Tombol Pintasan
+keycomb.main = Alternatif
 keycomb.view_comb = Lihat Kombinasi Tombol Pintasan
 keycomb.view_sets = Lihat Pengaturan Grafik
 keycomb.reset_ai = Reset AI
@@ -135,7 +222,6 @@ select.items = {0} item
 select.floor = Lantai: {0}
 select.block = Blok: {0}
 select.overlay = Lapisan: {0}
-select.building = Bangunan: {0}
 select.tagdesc = Pintasan skematik menggunakan tag untuk memilih skematik yang akan ditunjukkan kepada Anda.\nFungsi ini sama seperti tag didalam dialog skematik.\nTag Anda saat ini adalah {0}[white] tetapi Anda dapat memilih tag lain sesuai keinginan.
 
 trace.type.show = Tunjukkan Pengguna Scheme Size
@@ -155,7 +241,7 @@ render.fog = Kabut Perang
 render.xray = Sinar-X
 render.hide = Sembunyikan Unit
 render.grid = Jaringan Blok Tenaga
-render.ruler = Penggaris Kursor##
+render.ruler = Penggaris Kursor
 render.info = Info Unit
 render.border = Tampilan Tanpa Batas
 render.unit = Radius Serangan Unit
@@ -188,11 +274,13 @@ console.classic = Klasik
 console.multiline = Multiline
 console.multiline.send = Kirim
 console.schedule = Jadwal
-console.sc####hedule.new = Tugas Baru
+console.schedule.new = Tugas Baru
 console.schedule.interval = Interval dalam hitungan detik
 console.schedule.tooltip = Nilai minimum adalah 0,01 detik
+console.schedule.output = Pengeluaran:{0}{1}
 console.schedule.cancel = Batalkan Tugas
 
 updater.name = [scarlet]\u26A0[]Mod Scheme Size telah kedaluwarsa !
 updater.info = Versi mod [accent]Scheme Size[] yang anda miliki telah kedaluwarsa.\nDialog yang mengganggu layar anda saat ini dapat dimatikan di pengaturan.\n\n[gray]Versi saat ini adalah v{0} sedangkan versi terbaru adalah v{1}[]
-updater.load = Instal
+
+updater.load = Pasang Pembaruan
