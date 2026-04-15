@@ -22,3 +22,4 @@ dependencies: []
 hidden: true
 subtitle: "Mindustry Indonesia"
 repo: "MindustryID/TerjemahanIndonesia"
+hideBrowser: true
