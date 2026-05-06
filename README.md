@@ -9,4 +9,4 @@
 </div>
 ![Promote]
 
-[Promote]: TerjemahanID Promote.jpg
+[Promote]: TerjemahanIDPromote.jpg
