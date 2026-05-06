@@ -9,11 +9,6 @@ asthosus.displayName = Core.bundle.get("mod.asthosus.name");
 asthosus.description = Core.bundle.get("mod.asthosus.description");
 asthosus.subtitle = Core.bundle.get("mod.asthosus.subtitle");
 
-const exoprosopa = Vars.mods.locateMod("exoprosopa").meta;
-exoprosopa.displayName = Core.bundle.get("mod.exoprosopa.name");
-exoprosopa.description = Core.bundle.get("mod.exoprosopa.description");
-exoprosopa.subtitle = Core.bundle.get("mod.exoprosopa.subtitle");
-
 const axoxium = Vars.mods.locateMod("axoxium").meta;
 axoxium.displayName = Core.bundle.get("mod.axoxium.name");
 axoxium.description = Core.bundle.get("mod.axoxium.description");
