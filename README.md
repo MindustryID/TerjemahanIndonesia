@@ -7,3 +7,6 @@
 <p>An Indonesian Translation Mod </p>
 <p> [ March 20 / 2025 ]</p>
 </div>
+![Promote]
+
+[Promote]: TerjemahanID Promote.jpg
