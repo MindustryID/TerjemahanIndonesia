@@ -9,6 +9,7 @@ connect=Menghubungkan
 claj.browser.name=Bergabung melalui CLaJ
 claj.browser.title=Server Ruangan CLaJ
 claj.browser.no-rooms=[lightgray]Tidak ada ruangan publik yang ditemukan.
+claj.browser.no-result=[lightgray]Tidak ada hasil yang ditemukan.
 claj.browser.no-room-data=[lightgray]Tidak ada data.
 claj.browser.refresh-rooms=Segarkan Daftar Ruangan
 claj.browser.incompatible=[lightgray]Versi CLaJ tidak kompatibel.
@@ -75,13 +76,21 @@ claj.message.con-closure-denied=[yellow]PERINGATAN:[] Seseorang telah terhubung 
 claj.room.error=Terjadi kesalahan! Ruangan telah ditutup.
 claj.room.closed=Ruangan CLaJ telah ditutup oleh server.
 claj.room.obsolete-client=Versi CLaJ Anda tidak kompatibel dengan server ini.
-claj.room.outdated-client=Versi CLaJ Anda belum diperbarui.\nSilahkan perbarui ClaJ Anda dengan memasangkan ulang mod 'claj'.
-claj.room.outdated-server=Server CLaJ belum diperbarui. \nSilakan pilih yang lain.
-claj.room.server-closed=Server ClaJ telah ditutup, mohon menunggu selama semenit atau pilih server lain.
-claj.room.blacklisted=[scarlet]Server CLaJ tidak menerima Mindustry CLaJ![] \nSilakan pilih server lain.
+claj.room.outdated-client=Versi CLaJ Anda belum diperbarui.\nSilakan perbarui CLaJ Anda dengan memasangkan ulang mod 'claj'.
+claj.room.outdated-server=Server CLaJ belum diperbarui. \nSilakan pilih server yang lain.
+claj.room.server-closed=Server CLaJ telah ditutup, mohon menunggu selama semenit atau pilih server yang lain.
+claj.room.server-full=Server CLaJ sedang penuh! \nMohon tunggu atau pilih server yang lain.
+claj.room.blacklisted=[scarlet]Server CLaJ tidak menerima Mindustry CLaJ![] \nSilakan pilih server yang lain.
+claj.room.afk=Server telah menutup ruangan karena tidak ada pemain CLaJ yang terhubung dalam waktu yang lama.
+claj.room.spam=Ruangan CLaJ telah ditutup karena serangan spam paket! \nTolong kurangi penggunaan cheat atau peta yang terlalu besar. \n\n\
+               [lightgray]Jika Anda merasa ini adalah sebuah kesalahan, silakan laporkan ke github: \
+               https://github.com/xpdustry/claj/issues/new
 
 claj.reject.server-closing=[scarlet]Tidak dapat terhubung ke ruangan. \nServer CLaJ telah ditutup.
+claj.reject.server-full=[scarlet]Server CLaJ sedang penuh![] \n\
+                        Mohon tunggu sebentar atau minta host untuk membuka ruangan di server yang lain.
 claj.reject.room-not-found=Ruangan ini tidak ada. \nSilakan periksa apakah tautan yang Anda ketik sudah benar.
+claj.reject.room-full=Ruangan CLaJ sedang penuh! \nHarap tunggu slot kosong, atau minta host untuk menambah batas pemain CLaJ.
 claj.reject.password-required=Kata sandi diperlukan untuk bergabung ke ruangan.
 claj.reject.invalid-password=[scarlet]Kata sandi tidak valid.[] \nSilakan periksa apakah kata sandi yang Anda ketik sudah benar.
 claj.reject.incompatible=[scarlet]Ruangan tidak menggunakan Mindustry CLaJ!

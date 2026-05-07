@@ -20,11 +20,6 @@ xanthia.author = Core.bundle.get("mod.xanthia.author");
 xanthia.description = Core.bundle.get("mod.xanthia.description");
 xanthia.subtitle = Core.bundle.get("mod.xanthia.subtitle");
 
-const corpuscles = Vars.mods.locateMod("corpuscles").meta;
-corpuscles.displayName = Core.bundle.get("mod.corpuscles.name");
-corpuscles.description = Core.bundle.get("mod.corpuscles.description");
-corpuscles.subtitle = Core.bundle.get("mod.corpuscles.subtitle");
-
 const echofleet = Vars.mods.locateMod("echo-fleet").meta;
 echofleet.displayName = Core.bundle.get("mod.echo-fleet.name");
 echofleet.description = Core.bundle.get("mod.echo-fleet.description");
