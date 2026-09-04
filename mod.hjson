@@ -1,10 +1,10 @@
 name: terjemahan-indonesia
-displayName: "Terjemahan Indonesia"
+displayName: "Terjemahan ID"
 author: Kevin Vilyan
 description: 
 '''
 Sebuah Mod yang ditujukan untuk menerjemahkan konten vanilla [accent[]]Mindustry[[]]
-Diharapkan untuk selalu menginstall ulang mod seminggu sekali.
+Beralih fungsi sebagai testing atau pengecekan penerjemahan di dalam [accent[]]Mindustry[[]].
 
 [accent[]]Anggota:[gray[]]
 • DaGamerFiles - Octavira
@@ -16,10 +16,10 @@ Diharapkan untuk selalu menginstall ulang mod seminggu sekali.
 • TheMrAlbert
 • GrimSoul
 '''
-version: 7.146
-minGameVersion: "146"
+version: 8.160
+minGameVersion: "160"
 dependencies: []
 hidden: true
 subtitle: "Mindustry Indonesia"
 repo: "MindustryID/TerjemahanIndonesia"
-hideBrowser: true
+hideBrowser: false
