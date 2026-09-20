@@ -1,4 +1,5 @@
 # String versi lama
+import.clipboard = Muat dari papan klip
 schematic.exportfile = Ekspor Berkas
 schematic.importfile = Impor Berkas
 schematic.browseworkshop = Cari di Workshop
