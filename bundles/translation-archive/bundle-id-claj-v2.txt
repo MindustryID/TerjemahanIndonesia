@@ -42,6 +42,9 @@ claj.manage.invalid-port=[red]Port atau rentang port tidak valid
 claj.manage.creating-room=Membuat ruangan...
 claj.manage.room-creation-failed=[scarlet]Tidak dapat membuat tautan ruangan CLaJ![]\n\
                                  Server yang dipilih kemungkinan bukan sebuah server CLaJ atau belum diperbarui.
+claj.manage.sort.default=Urutkan berdasarkan bawaan
+claj.manage.sort.name=Urutkan berdasarkan nama
+claj.manage.sort.ping=Urutkan berdasarkan ping
 
 claj.settings.title=Pengaturan Ruangan
 claj.settings.general=Konfigurasi Umum
@@ -83,7 +86,7 @@ claj.room.server-full=Server CLaJ sedang penuh! \nMohon tunggu atau pilih server
 claj.room.blacklisted=[scarlet]Server CLaJ tidak menerima Mindustry CLaJ![] \nSilakan pilih server yang lain.
 claj.room.afk=Server telah menutup ruangan karena tidak ada pemain CLaJ yang terhubung dalam waktu yang lama.
 claj.room.spam=Ruangan CLaJ telah ditutup karena serangan spam paket! \nTolong kurangi penggunaan cheat atau peta yang terlalu besar. \n\n\
-               [lightgray]Jika Anda merasa ini adalah sebuah kesalahan, silakan laporkan ke github: \
+               [lightgray]Jika Anda merasa ini adalah sebuah kesalahan, silakan laporkan ke github: \n\
                https://github.com/xpdustry/claj/issues/new
 
 claj.reject.server-closing=[scarlet]Tidak dapat terhubung ke ruangan. \nServer CLaJ telah ditutup.
@@ -95,8 +98,14 @@ claj.reject.password-required=Kata sandi diperlukan untuk bergabung ke ruangan.
 claj.reject.invalid-password=[scarlet]Kata sandi tidak valid.[] \nSilakan periksa apakah kata sandi yang Anda ketik sudah benar.
 claj.reject.incompatible=[scarlet]Ruangan tidak menggunakan Mindustry CLaJ!
 
-claj.update.title=Versi CLaJ yang terbaru sudah dirilis!
-claj.update.text=Versi CLaJ yang lebih baru telah dirilis. \nApakah Anda ingin menginstalnya sekarang? \n\n\
-                 [lightgray]Jika Anda mengabaikannya, Anda tidak akan dapat terhubung ke sebagian besar atau semua server CLaJ.
-claj.update.confirm=Perbarui sekarang
-claj.update.ignore=Abaikan
+claj.form.open=Buka Formulir Umpan Balik untuk CLaJ
+claj.form.report=Laporkan Masalah CLaJ
+claj.form.confirm=Apakah Anda ingin melaporkan masalah ini kepada para pengembang CLaJ? \n\
+                  Ini akan membuka tab browser baru yang berisi formulir tersebut. \n\n\
+                  [orange]Mohon jangan melaporkan masalah yang tidak berguna seperti masalah yang berkaitan dengan masalah internet yang Anda alami atau melakukan spam pada formulir ini! \n\
+                  Jika Anda tetap melakukannya, kami tidak akan lagi membaca laporan bug dari Anda...
+claj.form.suggest.title=Apakah Anda menyukai CLaJ?
+claj.form.suggest=Apakah Anda memiliki saran atau masukan tentang CLaJ?\n\
+                  Atau apakah Anda pernah mengalami bug atau masalah saat menggunakannya?\n\n\
+                  [lightgray]Klik "Ya" akan membuka tab browser baru yang berisi formulir tersebut.\n\
+                  Mohon jangan melaporkan hal-hal yang tidak berguna atau melakukan spam pada formulir ini!
